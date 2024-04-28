@@ -1,10 +1,10 @@
-# TypeScript Solidity Boilerplate Starter Kit
+# Hardhat Base Solidity framework template
 
-A BoilerPlate Template Project To Start Solidity Development With Hardhat and Typescript.
+A BoilerPlate Template Project To start building on Base With Solidity, Hardhat, and Typescript.
 All you have to do is create a new repository from the template and start coding your smart contracts.
 
 ## Table of content
-- [TypeScript Solidity Boilerplate Starter Kit](#typescript-solidity-boilerplate-starter-kit)
+- [Hardhat Base Solidity framework template](#hardhat-base-solidity-framework-template)
   - [Table of content](#table-of-content)
   - [Hardhat Configuration](#hardhat-configuration)
   - [Supported Networks](#supported-networks)
