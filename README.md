@@ -1,5 +1,3 @@
-![Img](header.png)
-
 # TypeScript Solidity Boilerplate Starter Kit
 
 A BoilerPlate Template Project To Start Solidity Development With Hardhat and Typescript.
